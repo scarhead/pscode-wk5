@@ -1,0 +1,88 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+int num
+if num == 0
+print num is even
+else if num == 1
+print num is odd
+else print error
+
+creating a new int called "num" for number
+then checks to see if the number is even number
+if the num isnt then checks to see if it's odd
+otherwise it will display an error
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+int num1, num2, num3, num4, num5
+int sum, sum2
+input "Enter five different numbers"
+
+num1 + num2 + num3 + num4 + num5 = sum //b
+sum / 5 = sum2
+
+print "The average of all five numbers are %sum2"
+
+if num1 max // c
+print "num1 is the largest"
+else if num1 min
+print "num1 is the smallest"
+else
+print "num1 is neither the biggest or smallest"
+
+if num2 max
+print "num2 is the largest"
+else if num2 min
+print "num2 is the smallest"
+else
+print "num2 is neither the biggest or smallest"
+
+if num3 max
+print "num3 is the largest"
+else if num3 min
+print "num3 is the smallest"
+else
+print "num3 is neither the biggest or smallest"
+
+if num4 max
+print "num4 is the largest"
+else if num4min
+print "num4 is the smallest"
+else 
+print "num4 is neither the biggest or smallest"
+
+if num5 max
+print "num5 is the largest"
+else if num5 min
+print "num5 is the smallest"
+else
+print "num5 is neither the biggest or smallest"
+
+
+B. The 5 different numbers that are being add are total together using the int sum
+After all of the numbers are added together they're then divided by 5 which then gives the average
+
+C. The 5 numbers are then used in a if else statment to figured out which one is the biggest or smallest 
+It first checks to see if the numbers are the largest if it is then it will print out that it is the largest
+However if it's not then it moves on to the next else if statement which prints that it's the smallest
+if none of the numbers are biggest or smallest then it will print out that neither are the biggest or smallest.
+
+-- END --
